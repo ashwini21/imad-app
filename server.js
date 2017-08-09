@@ -14,7 +14,8 @@ var articles={
      <p class="p">this is the content of the paragraph one </p> <p class="p">this is the content of the paragraph one </p> <p class="p">this is the content of the paragraph one </p> <p class="p">this is the content of the paragraph one </p>`
      
      },
-     'articletwo':{title:'article one | ashwini kemshetty',
+     'articletwo':{
+    title:'article one | ashwini kemshetty',
     heading:'article one',
     date:'5 sept ',
     content:` <p class="p">this is the content of the paragraph one </p>
